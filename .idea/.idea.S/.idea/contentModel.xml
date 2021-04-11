@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kotsta\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kotsta\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_S.483807102.00" t="ExcludeRecursive" />
+    <e p="D:\reps\S" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Cineware by Maxon" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="Editor" t="Include">
+              <e p="native" t="Include">
+                <e p="maxon_login" t="Include">
+                  <e p="resource" t="Include">
+                    <e p="build.txt" t="Include" />
+                    <e p="config.txt" t="Include" />
+                    <e p="modules" t="Include">
+                      <e p="crypt.module" t="Include">
+                        <e p="build.txt" t="Include" />
+                      </e>
+                      <e p="image.module" t="Include">
+                        <e p="build.txt" t="Include" />
+                      </e>
+                      <e p="misc.module" t="Include">
+                        <e p="build.txt" t="Include" />
+                      </e>
+                      <e p="network.module" t="Include">
+                        <e p="build.txt" t="Include" />
+                      </e>
+                    </e>
+                    <e p="UnicodeData.txt" t="Include" />
+                  </e>
+                  <e p="version.txt" t="Include" />
+                </e>
+                <e p="version.txt" t="Include" />
+              </e>
+              <e p="res" t="Include">
+                <e p="MAXON_EULA_2019_29112019_CZ.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_DE.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_EN.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_ES.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_FR.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_IT.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_JP.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_KR.txt" t="Include" />
+                <e p="MAXON_EULA_2019_29112019_RU.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="GalaxyBox2" t="Include">
+          <e p="instructions.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="examplescene.cs" t="Include" />
+            <e p="MouseLook.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Materials" t="Include">
+          <e p="blur.shader" t="Include" />
+        </e>
+        <e p="planets" t="Include">
+          <e p="The Solar System" t="Include">
+            <e p="Materials" t="Include">
+              <e p="Sun.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="QuickOutline" t="Include">
+          <e p="ReadMe.txt" t="Include" />
+          <e p="Resources" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="OutlineFill.shader" t="Include" />
+              <e p="OutlineMask.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="Outline.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraChanger.cs" t="Include" />
+          <e p="CameraMovement.cs" t="Include" />
+          <e p="CelestialBody.cs" t="Include" />
+          <e p="Exit.cs" t="Include" />
+          <e p="InfoCloser.cs" t="Include" />
+          <e p="InfoOpener.cs" t="Include" />
+          <e p="LookAt.cs" t="Include" />
+          <e p="Planet.cs" t="Include" />
+          <e p="Rotation.cs" t="Include" />
+          <e p="StartProgram.cs" t="Include" />
+          <e p="TextScaler.cs" t="Include" />
+          <e p="TimeManager.cs" t="Include" />
+          <e p="UIOpener.cs" t="Include" />
+          <e p="Zoom.cs" t="Include" />
+          <e p="ZoomChecker.cs" t="Include" />
+          <e p="ZoomOuter.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="S.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
