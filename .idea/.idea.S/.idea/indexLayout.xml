@@ -20,7 +20,7 @@
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>SSIS</Path>
-      <Path>Temp</Path>
+      <Path>SolarSystem</Path>
       <Path>UserSettings</Path>
       <Path>obj</Path>
     </explicitExcludes>

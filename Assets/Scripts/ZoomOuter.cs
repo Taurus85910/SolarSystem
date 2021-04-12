@@ -5,11 +5,11 @@ using UnityEngine;
 public class ZoomOuter : MonoBehaviour
 {
     [SerializeField] private GameObject _mainCamera;
-
+    [SerializeField] private Material _material;
     public void Outing()
     {
         foreach (var i in FindObjectsOfType<TrailRenderer>())
-            i.enabled = true;
+            i.material = _material;
         ZoomChecker.IsZoomed = false;
         FindObjectOfType<Camera>().gameObject.SetActive(false);
         _mainCamera.SetActive(true);
